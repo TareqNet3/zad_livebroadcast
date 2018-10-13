@@ -48,8 +48,7 @@ class block_zad_livebroadcast extends block_base {
         $this->content = new stdClass;
 
         
-        //$config_content = get_config('block_zad_livebroadcast', 'content');$this->config->content
-        $config_content = $this->config->content;
+        $config_content = get_config('block_zad_livebroadcast', 'content');
 
         if ($config_content)
         {
