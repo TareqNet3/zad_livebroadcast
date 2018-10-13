@@ -25,12 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-/**
- *
- * @copyright  2018 zadgroup.net
- * @author     Tareq Nassry <tareq@zadgroup.net>
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
 class block_zad_livebroadcast extends block_base {
     /**
      * block initializations
