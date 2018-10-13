@@ -23,7 +23,7 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-// $string['key'] = 'String value of key.';
+// String keys and Arabic values that used in block
 $string['pluginname'] = 'قناة زاد الفضائية - البث المباشر';
 $string['headerconfig'] = 'headerconfig -> headerconfig';
 $string['description'] = 'headerconfig -> description';

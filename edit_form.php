@@ -24,7 +24,11 @@ defined('MOODLE_INTERNAL') || die();
  * @author     Tareq Nassry <tareq@zadgroup.net>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-class block_zad_livebroadcast_edit_form extends block_edit_form {
+
+ /**
+  * This class isn't used. It is to config every instance of block usage.
+  */
+ class block_zad_livebroadcast_edit_form extends block_edit_form {
     protected function specific_definition($mform) {
         global $CFG;
     }
