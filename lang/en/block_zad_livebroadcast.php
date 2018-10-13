@@ -23,7 +23,6 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-// String keys and English values that used in block
 $string['pluginname'] = 'Zad TV - Live Broadcast';
 $string['headerconfig'] = 'headerconfig -> headerconfig';
 $string['description'] = 'headerconfig -> description';

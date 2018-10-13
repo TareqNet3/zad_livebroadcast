@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'block_zad_livebroadcast', language 'en', branch 'MOODLE_20_STABLE'
+ * Strings for component 'block_zad_livebroadcast', language 'ar', branch 'MOODLE_20_STABLE'
  *
  * @package    block_zad_livebroadcast
  * @copyright  2018 zadgroup.net
@@ -23,7 +23,6 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-// String keys and Arabic values that used in block
 $string['pluginname'] = 'قناة زاد الفضائية - البث المباشر';
 $string['headerconfig'] = 'headerconfig -> headerconfig';
 $string['description'] = 'headerconfig -> description';
